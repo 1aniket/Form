@@ -1,0 +1,19 @@
+{
+  "name": "form1",
+  "version": "1.0.0",
+  "description": "Form in React JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1aniket/Form.git"
+  },
+  "author": "Aniket Bhogawar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1aniket/Form/issues"
+  },
+  "homepage": "https://github.com/1aniket/Form#readme"
+}
