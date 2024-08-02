@@ -1,0 +1,26 @@
+
+.form-container
+{
+   
+    background-color:#CBFF5C;
+    width: 50%;
+    height: 80vh;
+    margin: auto;   
+    margin-top: 4%;
+    border-radius: 15PX;
+    justify-content: center;
+    align-items:center;
+    
+}
+.line
+{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    flex-direction: row;
+    overflow: hidden;
+    margin-bottom: 5px;
+    padding: 0 2%;
+    height: 13vh;
+    
+}

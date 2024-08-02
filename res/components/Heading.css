@@ -1,0 +1,16 @@
+.heading-container
+{
+    width: 100%;
+    display: flex;
+    text-align: center;
+    color: #000;
+    background-color:transparent;
+    padding: 10px 20px;
+    
+}
+
+.heading-container >h1
+{
+    margin-left: 2%;
+
+}

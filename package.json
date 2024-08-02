@@ -2,9 +2,9 @@
   "name": "form1",
   "version": "1.0.0",
   "description": "Form in React JS",
-  "main": "index.html",
+  
   "scripts": {
-    "test": "test"
+    "test": "npx parcel index.html"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,14 @@
   "bugs": {
     "url": "https://github.com/1aniket/Form/issues"
   },
-  "homepage": "https://github.com/1aniket/Form#readme"
+  "homepage": "https://github.com/1aniket/Form#readme",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "react-icons": "^5.2.1"
+  },
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  }
 }
